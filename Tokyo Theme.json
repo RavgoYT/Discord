@@ -20,7 +20,7 @@
 		"HEADER_PRIMARY": ["#b1bae6", "#FFFFFF"],
 		"HEADER_SECONDARY": ["#565f89", "#FFFFFF"],
 		"INTERACTIVE_ACTIVE": ["#b1bae6", "#FFFFFF"],
-		"INTERACTIVE_MUTED": ["#b5bad1", "#FFFFFF"],
+		"INTERACTIVE_MUTED": ["#4a435e", "#FFFFFF"],
 		"INTERACTIVE_NORMAL": ["#5f647e", "#FFFFFF"],
 		"TEXT_NORMAL": ["#b1bae6", "#FFFFFF"],
 		"TEXT_MUTED": ["#565f89", "#FFFFFF"],
