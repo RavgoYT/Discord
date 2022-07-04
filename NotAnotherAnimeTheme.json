@@ -36,7 +36,7 @@
 		"INTERACTIVE_NORMAL": ["##6ee2f5", "#4F5660"],
 		"TEXT_LINK": ["##a7f0fc", "#FFFFFF"],
 		"TEXT_MUTED": ["#51676b", "#747F8D"],
-		"TEXT_NORMAL": ["#c9d4d6", "#2E3338"]
+		"TEXT_NORMAL": ["#c9d4d6", "#c9d4d6"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#a7effc",
