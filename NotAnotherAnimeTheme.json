@@ -33,8 +33,8 @@
 		"HEADER_SECONDARY": ["#9dc3c9", "#4F5660"],
 		"INTERACTIVE_ACTIVE": ["#c3e1e6", "#060607"],
 		"INTERACTIVE_MUTED": ["#3C414C", "#C7CCD1"],
-		"INTERACTIVE_NORMAL": ["##6ee2f5", "#4F5660"],
-		"TEXT_LINK": ["##a7f0fc", "#FFFFFF"],
+		"INTERACTIVE_NORMAL": ["#6ee2f5", "#4F5660"],
+		"TEXT_LINK": ["#a7f0fc", "#FFFFFF"],
 		"TEXT_MUTED": ["#51676b", "#747F8D"],
 		"TEXT_NORMAL": ["#c9d4d6", "#c9d4d6"]
 	},
