@@ -1,63 +1,58 @@
 {
-	"name": "NotAnotherAnimeTheme",
-	"version": "1",
-	"description": "An animated discord theme for emnity",
-	"color": "#939DBD",
-        "authors": [
+	"name": "Minty",
+	"author": "light#9585",
+	"version": "1.0",
+	"description": "Discord with a minty fresh coat of paint.",
+	"authors": [ 
 		{
-			"name": "Ravgo",
-			"id": "388869946513293322"
+			"name": "light",
+			"id": "341377368075796483"
 		}
 	],
-	"background": {
-		"blur": 0,
-		"url": "https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif",
+		"background": {
+		"blur": 10,
+		"url": "https://raw.githubusercontent.com/pwnPwner/Enmity-Themes/main/.assets/bg/waveoutBG.png",
 		"alpha": 1
 	},
 	"theme_color_map": {
-		"KEYBOARD": ["#000000", "#000000"],
-		"BACKGROUND_PRIMARY": ["#43b581", "#43b581"],
-		"BACKGROUND_SECONDARY": ["#616EAB", "#616EAB"],
-		"BACKGROUND_SECONDARY_ALT": ["#616EAB", "#616EAB"],
-		"BACKGROUND_TERTIARY": ["#939DBD", "#939DBD"],
-		"BACKGROUND_ACCENT": ["#cfa1e3", "#cfa1e3"],
-		"BACKGROUND_FLOATING": ["#939DBD", "#939DBD"],
-		"BACKGROUND_MENTIONED": ["#faa61a0d", "#faa61a0d"],
-		"BACKGROUND_MOBILE_PRIMARY": ["#656769", "#656769"],
-		"BACKGROUND_MOBILE_SECONDARY": ["#5C646A", "#5C646A"],
-		"BACKGROUND_MODIFIER_HOVER": ["#2F3342", "#2F3342"],
-		"BACKGROUND_MODIFIER_ACTIVE": ["#4D5681", "#4D5681"],
-		"BACKGROUND_MODIFIER_SELECTED": ["#616EAB", "#616EAB"],
-		"BACKGROUND_NESTED_FLOATING": ["#0D0E0E", "#0D0E0E"],
-		"BACKGROUND_MODIFIER_ACCENT": ["#C7CBDB", "#C7CBDB"],
-		"CHANNELS_DEFAULT": ["#4C516B", "#4C516B"],
-		"CHANNEL_ICON": ["#13141C", "#13141C"],
-		"TEXTBOX_MARKDOWN_SYNTAX": ["#939DBD", "#939DBD"],
-		"TEXT_NORMAL": ["#C7CBDB", "#C7CBDB"],
-		"TEXT_MUTED": ["#5C646A", "#5C646A"],
-		"INTERACTIVE_ACTIVE": ["#2F3342", "#2F3342"],
-		"INTERACTIVE_NORMAL": ["#4D5681", "#4D5681"],
-		"INTERACTIVE_MUTED": ["#616EAB", "#616EAB"],
-		"HEADER_PRIMARY": ["#0D0E0E", "#0D0E0E"],
-		"HEADER_SECONDARY": ["#C7CBDB", "#C7CBDB"],
-		"TEXT_LINK": ["#8D96C2", "#8D96C2"]
+		"KEYBOARD": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_SECONDARY": ["#14161A", "#F2F3F5"],
+		"BACKGROUND_SECONDARY_ALT": ["#232528", "#EBEDEF"],
+		"BACKGROUND_TERTIARY": ["#0F1114", "#E3E5E8"],
+		"BACKGROUND_ACCENT": ["#191B1E", "#747f8D"],
+		"BACKGROUND_FLOATING": ["#1F2125", "#FFFFFF"],
+		"BACKGROUND_NESTED_FLOATING": ["#131519", "#FFFFFF"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#131519", "#F8F9F9"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#14161A", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#2A2D33", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#0A0B0C", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#272B33", "#FFFFFF"],
+		"CHANNELS_DEFAULT": ["#84e8fa", "#FFFFFF"],
+		"HEADER_PRIMARY": ["#c6eef5", "#FFFFFF"],
+		"HEADER_SECONDARY": ["#9dc3c9", "#4F5660"],
+		"INTERACTIVE_ACTIVE": ["#c3e1e6", "#060607"],
+		"INTERACTIVE_MUTED": ["#3C414C", "#C7CCD1"],
+		"INTERACTIVE_NORMAL": ["##6ee2f5", "#4F5660"],
+		"TEXT_LINK": ["##a7f0fc", "#FFFFFF"],
+		"TEXT_MUTED": ["#51676b", "#747F8D"],
+		"TEXT_NORMAL": ["##c9d4d6", "#2E3338"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#1f2021",
-		"PRIMARY_DARK_100": "#1f2021",
-		"PRIMARY_DARK_200": "#1f2021",
-		"PRIMARY_DARK_300": "#1f2021",
-		"PRIMARY_DARK_360": "#1f2021",
-		"PRIMARY_DARK_400": "#1f2021",
-		"PRIMARY_DARK_500": "#1f2021",
-		"PRIMARY_DARK_600": "#1f2021",
-		"PRIMARY_DARK_630": "#1f2021",
-		"PRIMARY_DARK_700": "#1f2021",
-		"PRIMARY_DARK_800": "#1f2021",
-		"PRIMARY_DARK_900": "#1f2021",
-		"BRAND_NEW": "#1f2021"
+		"PRIMARY_DARK": "#a7effc",
+		"PRIMARY_DARK_100": "#89c2cc",
+		"PRIMARY_DARK_300": "#d5e1e3",
+		"PRIMARY_DARK_360": "#596172",
+		"PRIMARY_DARK_400": "#505766",
+		"PRIMARY_DARK_500": "#14161A",
+		"PRIMARY_DARK_600": "#14161A",
+		"PRIMARY_DARK_630": "#14161A",
+		"PRIMARY_DARK_700": "#14161A",
+		"PRIMARY_DARK_800": "#14161A",
+		"BRAND_NEW": "#80b4bd",
+		"WHITE": "#FFFFFF"
 	},
-	"unsafe_colors":{
-		"CHAT_GREY": "#5C646A"
+	"unsafe_colors": {
+		"CHAT_GREY": "#14161A"
 	}
 }
